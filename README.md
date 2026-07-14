@@ -1,21 +1,26 @@
-**AI-ML-and-GEN-AI-Track-Project-Template**
+# Credit Card Approval Prediction
 
-**Repository Structure**
+**Team ID**: SWTID-2026-6771
 
-1.Brainstorming & Ideation
+**Team Lead**: DIVYA JAVVAJI
 
-2.Requirement Analysis
+**Team Members**:
+- JAVVAJI DIVYA
+- kesireddy greeshma
+- Sruthi Gummadi
+- Konakanchi Naveen Sai
 
-3.Project Design Phase
+## Project Description
+This project is a web application that predicts credit card approval using a machine learning model.
 
-4.Project Planning Phase
+## Repository Structure
 
-5.Project Development Phase
-
-6.Project Testing
-
-7.Project Documentation
-
-8.Project Demonstration
-
-Replace the placeholder files with your team's project deliverables.
+1. Brainstorming & Ideation
+2. Requirement Analysis
+3. Project Design Phase
+4. Project Planning Phase
+5. Project Development Phase
+   - Code/: Contains the Flask application and ML model
+6. Project Testing
+7. Project Documentation
+8. Project Demonstration
